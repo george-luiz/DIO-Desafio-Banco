@@ -1,5 +1,5 @@
 <h1>DIO-Desafio Banco com POO</h1>
-<p>�� Sobre</p>
+<h2>�� Sobre</h2>
 <p>Projeto: DIO - Simulando um Banco através do Terminal/Console</p>
 <p>Scanner</p>
 <p>Interação com o Terminal</p>
